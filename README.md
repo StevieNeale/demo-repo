@@ -1,1 +1,1 @@
-# Description of project steps
+# Description of project steps for Cloud Resume Project
